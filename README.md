@@ -1,4 +1,4 @@
-# Welcom to ILVO Plan
+# Welcome to ILVO Plan
 ## Brief
 ILVO (Immerse Learners in Vocabulary originally) is Learners' Voice Organization. It's a maching-aided Language Learning project that gathers collective wisdom and feeds back humanity. It's not merely a project,but also a software,still more is a set of technical standards for machine-assisted language learning.The idea of ILVO is sharing, immersion, freedom and visualization. 
 
